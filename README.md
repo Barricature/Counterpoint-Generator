@@ -98,10 +98,10 @@ For ease of implementation, this program generates cantus firmus and counterpoin
 [ [ 0, -8 ], [ 2, -7 ], [ 4, -5 ], [ 7, -8 ], [ 5, -7 ], [ 4, -5 ], [ 5, -10 ], [ 4, -8 ], [ 2, -1 ], [ 4, -3 ], [ 2, -1 ], [ 0, 0 ] ]
 ```
 
-[SC_240930_110913.wav](https://prod-files-secure.s3.us-west-2.amazonaws.com/386a96bb-f4fe-40e0-87d0-68ee4e7a7a06/8478f9df-beea-40ce-b7aa-97335f0e796e/SC_240930_110913.wav)
+[SC_240930_110913.wav](SC_240930_110913.wav)
 
 ```json
 [ [ 0, -8 ], [ 9, -10 ], [ 7, -8 ], [ 5, -10 ], [ 4, -8 ], [ 5, -3 ], [ 7, -5 ], [ 5, -3 ], [ 7, -1 ], [ 0, -3 ], [ 2, -1 ], [ 0, 0 ] ]
 ```
 
-[SC_240930_111013.wav](https://prod-files-secure.s3.us-west-2.amazonaws.com/386a96bb-f4fe-40e0-87d0-68ee4e7a7a06/9ad40924-d57c-4fd6-a222-f54ca5dac1e1/SC_240930_111013.wav)
+[SC_240930_111013.wav](SC_240930_111013.wav)
